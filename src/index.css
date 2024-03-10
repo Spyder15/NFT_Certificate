@@ -1,0 +1,17 @@
+@font-face {
+  font-family: retro;
+  src: url(components/visitor1.ttf);
+  font-weight: normal;
+}
+
+body {
+  margin: 0;
+  font-family: retro;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
